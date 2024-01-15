@@ -15,4 +15,4 @@ function ageChecker(dateOfBirth) {
   return `Your Age: ${years} years, ${months} months & ${days} days`;
 }
 
-module.exports = ageChecker;
+module.exports.ageChecker = ageChecker;
