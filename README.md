@@ -2,7 +2,7 @@
 
 Javascript library to calculate your age provide by your date of birth
 
-**About Age-Checker ?**
+**About Package ?**
 
 ```javascript
 const ageChecker = require("age-checker");
