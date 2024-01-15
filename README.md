@@ -5,7 +5,7 @@ Javascript library to calculate your age provide by your date of birth
 **About Package ?**
 
 ```javascript
-const ageChecker = require("age-checker");
+const { ageChecker } = require("age-checker");
 
 ageChecker(dateOfBirth: String: required | format: 'YYYY-MM-DD')
 ```
@@ -19,7 +19,7 @@ npm install age-checker
 # Usage
 
 ```javascript
-const ageChecker = require("age-checker");
+const { ageChecker } = require("age-checker");
 
 console.log(ageChecker("2002-09-22"));
 ```
