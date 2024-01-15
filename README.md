@@ -5,8 +5,6 @@ Javascript library to calculate your age provide by your date of birth
 **About Package ?**
 
 ```javascript
-const { ageChecker } = require("age-checker");
-
 ageChecker(dateOfBirth: String: required | format: 'YYYY-MM-DD')
 ```
 
